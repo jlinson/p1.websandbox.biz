@@ -29,7 +29,7 @@
 			</nav>
 
 			<div>
-				<p>(PHP version)</p>
+				<p>(PHP version - chmod fix test)</p>
 			</div>
 
 			<footer>
