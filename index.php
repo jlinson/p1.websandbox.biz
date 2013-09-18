@@ -65,7 +65,7 @@
                         <li>Project IDE: <a href="http://www.eclipse.org/">Eclipse with Aptana Studio plugin</a> - still wrestling with all the features; supports Git.</li>
                         <li>HTML Inspector/Validator: <a href="https://addons.mozilla.org/en-us/firefox/addon/firebug/">Firebug &amp; HTML Tidy for Firefox</a> - really sheds light on dark places.</li>
 						<li>Data Modeling Tool: <a href="http://www.mysql.com/products/workbench/">MySQL Workbench</a> - used ER/Win (now ER/Studio), but I mostly work with MySQL now.</li>
-						<li>FTP &amp SSH: <a href="http://www.smartftp.com/">SmartFTP</a> - guess I'll be using the FTP less and the SSH terminal more; nice tool, but Filezilla & PuTTY cover most of the features.</li>
+						<li>FTP &amp; SSH: <a href="http://www.smartftp.com/">SmartFTP</a> - guess I'll be using the FTP less and the SSH terminal more; nice tool, but Filezilla & PuTTY cover most of the features.</li>
                     </ul><br>
                 <p>Outside of corporate environments, all my web development has been on Linux web hosts (typical LAMP stacks).  Previously I used XAMPP for a localhost.  As part of this class I've installed
 				   WAMP for comparison.  While I've used version control in the past (e.g. PVCS, SCCS and PowerBuilder Native), I'm new to Git.</p>
@@ -122,7 +122,7 @@
                 <h3>About</h3>
                 <p>This page is presented as evidence of completion of Project 1 : Workflow setup and essential HTML5/CSS demonstration for Harvard Extension School class DWA E-15 Dynamic Web Applications.<br>
 				<p>&copy; Copyright 2013 by Jeff Linson</p>
-				<a href="/">top</a></p>
+				<p><a href="/">top</a></p>
             </section>
             <section>
                 <h3>W3C Validation Link</h3>
