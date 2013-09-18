@@ -128,8 +128,16 @@
                 <h3>W3C Validation Link</h3>
                 <nav id="blogRoll">
                     <ul>
-                        <li><a href="http://validator.w3.org/">W3C</a></li>
+                        <li><a href="http://validator.w3.org/">W3C Validator</a></li>
+						<li><a href="http://validator.w3.org/check?uri=http%3A%2F%2Fp1.websandbox.biz%2F">Validated Record</a></li>
                     </ul>
+                    <br><p>
+                    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+                        <img style="border:0;width:88px;height:31px"
+                            src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+                            alt="Valid CSS!" />
+                    </a>
+                    </p>
                 </nav>
             </section>
             <section>
