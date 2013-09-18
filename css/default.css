@@ -27,7 +27,8 @@ body {
 }
 
 ol, ul {
-	list-style: none;
+	list-style: disc;
+ /*	list-style: none; */
 }
 
 blockquote, q {
@@ -166,7 +167,7 @@ nav#global ul li {
 nav#global ul li a {
 	color: #777;
 	background-color: #222;
-	border: 2px solid #222;
+	border: 2px solid #222;  /* NOTE: Adjust border color relative to background-color to show. -jbl */
 	font: normal bold 14px/44px Arial, Helvetica, sans-serif;
 	padding: 10px;
 	margin-right: 40px;
@@ -275,10 +276,6 @@ article {
 article:last-child {
 	border-bottom: none;
 }
-
-.blogPost {
-	list-style: disc;
- }
 
 aside {
 	float: right;
