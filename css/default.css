@@ -160,7 +160,7 @@ nav#global ul {
 
 nav#global ul li {
 	display: inline;
-    list style: none;
+    list-style: none;
 	padding-left: 40px;
 }
 
