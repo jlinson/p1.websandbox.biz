@@ -8,7 +8,7 @@
 <!-- <meta name="copyright" content="Copyright (c) 2010 CoffeeCup, all rights reserved." />  - - NOT SUPPORTED but numerous examples in wild. -->
 	<!-- Coffee Cup Basic Gray Theme used as starting point. -->
 	<title>Welcome to P1 | Jeffrey Linson</title>
-    <link rel="stylesheet" href="css/default.css">
+    <link rel="stylesheet" href="css/default-p1.css">
 	<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
 	<link rel="shortcut icon" href="/favicon.ico" />
 	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
